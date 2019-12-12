@@ -1,4 +1,4 @@
-module youtube-dl-queue
+module github.com/satom9to5/youtube-dl-queue
 
 go 1.13
 
